@@ -1,0 +1,2 @@
+# Dice-Rolling-Number-Generator
+We use the Random module to generate the random number for the dice in the range of 1 to 6. We have used the Time module to generate a delay while loading the dice numbers . We can roll the dice for any number of players we want. We can roll the dice until we want to stop and it is so much fun to play with it. We don't need the actual dice for playing the game and  we can roll the dice any number of time. have fun with rolling the dice
